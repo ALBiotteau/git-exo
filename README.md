@@ -1,1 +1,3 @@
-# git-exo
+# git-exo 
+
+proposition de modif
